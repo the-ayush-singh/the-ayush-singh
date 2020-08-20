@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there (👋) , This is Ayush Singh from Indian Institue of Information Technology, Bhopal
+####  I'm a Web Developer and Programmer.
+
+-  C, C++, Javscript, Dart, Python are the programming languages i work.
+
+- 🔭 I’m currently working on Mobile App Development using Flutter
+- 📫 How to reach me: mailto:19u01045@iiitbhopal.ac.in
 
 <!--
 **the-ayush-singh/the-ayush-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
