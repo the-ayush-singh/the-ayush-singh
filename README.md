@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working on Mobile App Development using Flutter
 - 📫 How to reach me: mailto:19u01045@iiitbhopal.ac.in
+- Follow me on my [Social Media Accounts](https://linktr.ee/ayushsingh)
 
 <!--
 **the-ayush-singh/the-ayush-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
