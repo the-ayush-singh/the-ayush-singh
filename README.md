@@ -4,7 +4,7 @@
 -  C, C++, Javscript, Dart, Python are the programming languages i work.
 
 - 🔭 I’m currently working on Mobile App Development using Flutter
-- 📫 How to reach me: mailto:19u01045@iiitbhopal.ac.in
+- 📫 How to reach me: 19u01045@iiitbhopal.ac.in
 - Follow me on my [Social Media Accounts](https://linktr.ee/ayushsingh)
 
 <!--
