@@ -1,7 +1,5 @@
 ### Hi there (👋) , This is Ayush Singh from Indian Institue of Information Technology, Bhopal
-####  I'm a Web Developer and Programmer. <a href="https://dev.to/theayushsingh">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ayush Singh's DEV Profile" height="30" width="30">
-</a>
+####  I'm a Web Developer and Programmer.
 
 -  C, C++, Javscript, Dart, Python are the programming languages i work.
 
@@ -27,4 +25,8 @@ Here are some ideas to get you started:
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-ayush-singh&show_icons=true&theme=dracula)](https://github.com/the-ayush-singh/github-readme-stats)
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-ayush-singh&show_icons=true&theme=dracula)](https://github.com/the-ayush-singh/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-ayush-singh&layout=compact)](https://github.com/the-ayush-singh/github-readme-stats)
+
+
