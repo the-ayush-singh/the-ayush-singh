@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+ <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ayush Singh's DEV Profile" height="30" width="30">
+</a>
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 
