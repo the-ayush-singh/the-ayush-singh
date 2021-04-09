@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 
-[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-ayush-singh&show_icons=true&theme=dracula)](https://github.com/the-ayush-singh/github-readme-stats)
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-ayush-singh&show_icons=true&theme=synthwave)](https://github.com/the-ayush-singh/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-ayush-singh&layout=compact)](https://github.com/the-ayush-singh/github-readme-stats)
 
