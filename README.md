@@ -1,5 +1,5 @@
 ### Hi there (👋) , This is Ayush Singh from Indian Institue of Information Technology, Bhopal
-####  I'm a Web Developer and Programmer.
+####  I'm a Developer and Programmer.
 
 -  C, C++, Javscript, Dart, Python are the programming languages i work.
 
