@@ -26,7 +26,13 @@ Here are some ideas to get you started:
 
 [![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-ayush-singh&show_icons=true&theme=synthwave)](https://github.com/the-ayush-singh/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-ayush-singh&layout=compact)](https://github.com/the-ayush-singh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-ayush-singh&layout=compact)](https://github.com/the-ayush-singh/github-readme-stats) <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
+<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/>
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
+<!-- IMAGES -->
+
+
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 
