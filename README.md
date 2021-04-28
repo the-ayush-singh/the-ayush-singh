@@ -7,10 +7,10 @@
 </p>
 
 
--  C, C++, Javscript, Dart, Python are the programming languages i work.
 
 - 🔭 I’m currently working on Cloud Computing, Big Data, Mobile and Web Application Development.
 - 🌱 I’m currently learning Machine Learning, Blockchain and some other Technologies.
+
 
 ### 🛠 &nbsp;Languages and Tools
 
