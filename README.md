@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working on Cloud Computing, Big Data, Mobile and Web Application Development.
-- 🌱 I’m currently learning Machine Learning, Blockchain and some other Technologies.
+- 🌱 I’m currently learning Blockchain, Machine Learning and some other Technologies.
 
 
 ### 🛠 &nbsp;Languages and Tools
