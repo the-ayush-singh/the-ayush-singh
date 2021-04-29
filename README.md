@@ -1,4 +1,4 @@
-<h1 align="center">Hi there (<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33">) , This is Ayush Singh</h1>
+<h1 align="center">Hi there |<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33">| , This is Ayush Singh</h1>
 <h3 align="center">Indian Institue of Information Technology, Bhopal</h3>
 <h3 align="center">Electronics and Communication Engineering</h3>
 
@@ -42,7 +42,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 #### Programming Languages
-
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
