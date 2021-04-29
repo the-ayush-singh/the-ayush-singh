@@ -63,6 +63,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=the-ayush-singh&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<p align="center">
+<img  src="https://activity-graph.herokuapp.com/graph?username=the-ayush-singh&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='702.21'>
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
