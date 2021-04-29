@@ -1,4 +1,4 @@
-<h1 align="center">Hi there (👋) , This is Ayush Singh</h1>
+<h1 align="center">Hi there (<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33">) , This is Ayush Singh</h1>
 <h3 align="center">Indian Institue of Information Technology, Bhopal</h3>
 <h3 align="center">Electronics and Communication Engineering</h3>
 
