@@ -74,6 +74,14 @@
 </a>
 </p>
 <p align="center">
+<a href="https://github.com/the-ayush-singh">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=the-ayush-singh"/>
+</a>
+</p>
+<p align="center">
+   <img height="180em" src="https://readme-jokes.vercel.app/api"/>
+</p>
+<p align="center">
 <img  src="https://activity-graph.herokuapp.com/graph?username=the-ayush-singh&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='702.21'>
 </p>
 
