@@ -84,7 +84,7 @@
 </p>
 <h4 align="center">Some Programming Jokes 🥲</h4>
 <p align="center">
-   <img height="180em" src="https://readme-jokes.vercel.app/api"/>
+   <img src="https://readme-jokes.vercel.app/api"/>
 </p>
 <p align="center">
    <img src="https://media.giphy.com/media/zHd8x7Pik0Ftm/giphy.gif">
