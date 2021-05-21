@@ -72,6 +72,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=the-ayush-singh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=the-ayush-singh&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+<p align="center">
+<img  src="https://activity-graph.herokuapp.com/graph?username=the-ayush-singh&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='702.21'>
+</p>
 </p>
 <p align="center">
 <a href="https://github.com/the-ayush-singh">
@@ -81,15 +84,13 @@
 <p align="center">
    <img height="180em" src="https://readme-jokes.vercel.app/api"/>
 </p>
-<p align="center">
-<img  src="https://activity-graph.herokuapp.com/graph?username=the-ayush-singh&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='702.21'>
-</p>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayushsinghindia/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/the-ayush-singh)<a href="https://dev.to/theayushsingh">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ayush Singh's DEV Community Profile" height="30" width="30">
 </a> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/the.ayush.singh/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/realAyushSingh_)
-
+<p align="center">
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
-
+</p>
