@@ -65,7 +65,8 @@
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
+ 
+<h3 align="center">⚙️ &nbsp;GitHub Analytics </h3>
 
 <p align="center">
 <a href="https://github.com/the-ayush-singh">
