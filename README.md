@@ -81,6 +81,7 @@
 <p align="center">
 <a href="https://github.com/the-ayush-singh">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=the-ayush-singh"/>
+  
 </a>
 </p>
 <h4 align="center">Some Programming Jokes 🥲</h4>
@@ -88,7 +89,8 @@
    <img src="https://readme-jokes.vercel.app/api"/>
 </p>
 <p align="center">
-   <img src="https://media.giphy.com/media/zHd8x7Pik0Ftm/giphy.gif">
+   
+   <img height="210em" src="https://media.tenor.com/images/cc63870d15c063a1c714c33455794b3b/tenor.gif">
 </p>
 
 
