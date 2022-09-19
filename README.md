@@ -8,8 +8,8 @@
 
 
 
-- 🔭 I’m currently working on Cloud Computing, Big Data, Mobile and Web Application Development.
-- 🌱 I’m currently learning Blockchain, Machine Learning and some other Technologies.
+- 🔭 I will be an undergrad in the year 2023 and currently looking for a FTE role in IT Industry.
+- 🌱 I’m workerd on Blockchain, Machine Learning, Cloud Computing, Big Data, Mobile and Web Application Development.
 
 
 ### 🛠 &nbsp;Languages and Tools
